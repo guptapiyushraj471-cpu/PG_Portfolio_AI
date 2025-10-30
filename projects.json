@@ -5,7 +5,7 @@
     "description": "Automates incident categorization and resolution suggestions using Excel + GPT + Python.",
     "tech": ["Python", "OpenAI API", "Excel", "Pandas"],
     "repo": "https://github.com/<you>/PG_Portfolio_AI/tree/main/ai-incident-analyzer",
-    "status": "In Progress",
+    "status": "Completed",
     "year": "2025"
   },
   {
