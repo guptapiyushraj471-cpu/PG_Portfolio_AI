@@ -2,7 +2,7 @@
 async function loadProjects(){
   const el = document.getElementById('projects');
   try {
-    const resp = await fetch('./data/projects.json');
+ const resp = await fetch('./projects.json');
     const data = await resp.json();
     el.innerHTML = data.map(p => `
       <article class="card">
