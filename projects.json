@@ -4,7 +4,7 @@
     "tagline": "GPT-powered insights for IT incidents",
     "description": "Automates incident categorization and resolution suggestions using Excel + GPT + Python.",
     "tech": ["Python", "OpenAI API", "Excel", "Pandas"],
-    ""repo": "https://github.com/guptapiyushraj471-cpu/PG_Portfolio_AI/tree/main/ai-incident-analyzer"
+    "repo": "https://github.com/guptapiyushraj471-cpu/PG_Portfolio_AI/tree/main/ai-incident-analyzer"
     "status": "Completed",
     "year": "2025"
   },
