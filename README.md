@@ -1,9 +1,9 @@
-# Piyush Gupta _Portfolio
+# 🚀 Piyush Gupta — Portfolio
+
 Welcome to my professional portfolio!
+
 This repository showcases my journey as an Engineer specializing in AI, Automation, Data, and Cloud Technologies.
 It includes my projects, workflows, and tools integrating MS Excel, GPT, Power BI, ServiceNow, and GitHub Automation.
-
-# 🚀 Piyush Gupta — Portfolio Website
 
 A modern, responsive, and performance-optimized personal portfolio showcasing my work in **Technical Support Engineering, IT Operations, Automation, and AI-driven solutions**.  
 Built using **HTML, CSS, and Vanilla JavaScript** with clean UI, dark/light theme support, animations, and structured SEO optimization.
